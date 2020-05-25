@@ -7,7 +7,6 @@ import Tooltip from "@material-ui/core/Tooltip";
 import Typography from "@material-ui/core/Typography";
 import IconButton from "@material-ui/core/IconButton";
 import {
-  withStyles,
   WithStyles,
   StyleRulesCallback
 } from "@material-ui/core/styles";
